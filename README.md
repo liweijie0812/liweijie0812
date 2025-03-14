@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+### 📈 Activity Graph:
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=liweijie0812&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
 **liweijie0812/liweijie0812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
